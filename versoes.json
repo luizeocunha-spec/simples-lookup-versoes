@@ -1,0 +1,34 @@
+{
+  "formato": 1,
+  "versoes": [
+    {
+      "versao": "2026.11.26",
+      "data": "26/11/2026",
+      "commit": "3a9f2393",
+      "notas": "Versao inicial do Simples Lookup (auto-atualizavel). Multiplas abas, endereco+IBGE, CNAE, botao rosa.",
+      "runtime": "py3.13.14-78d6d82c",
+      "retirada": false,
+      "codigo": {
+        "arquivo": "SimplesLookup_2026.11.26.zip",
+        "url": "https://github.com/luizeocunha-spec/simples-lookup-versoes/releases/download/v2026.11.26/SimplesLookup_2026.11.26.zip",
+        "sha256": "872c09a171a50cd441df5957f14ef85cd04d985fd2a5818381579b87f33e2dd2",
+        "tamanho": 96857
+      }
+    }
+  ],
+  "runtimes": {
+    "py3.13.14-78d6d82c": {
+      "arquivo": "SimplesLookup_python_py3.13.14-78d6d82c.zip",
+      "url": "https://github.com/luizeocunha-spec/simples-lookup-versoes/releases/download/v2026.11.26/SimplesLookup_python_py3.13.14-78d6d82c.zip",
+      "sha256": "2471fc31aa382470b986825c1808c67b63d6406edfed0c1b653b04c87b913a94",
+      "tamanho": 37690245
+    }
+  },
+  "instalador": {
+    "versao": "2026.11.26",
+    "arquivo": "SimplesLookup_Setup_2026.11.26.exe",
+    "url": "https://github.com/luizeocunha-spec/simples-lookup-versoes/releases/download/v2026.11.26/SimplesLookup_Setup_2026.11.26.exe",
+    "sha256": "3b4324e15a9d15fbc6e9759d237588502ffd2de28875224eacaef6cea7dab88a",
+    "tamanho": 26857724
+  }
+}
